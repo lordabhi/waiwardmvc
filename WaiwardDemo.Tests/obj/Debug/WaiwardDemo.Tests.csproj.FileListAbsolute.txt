@@ -12,11 +12,11 @@ C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\System.Web.WebPages.Razor
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\WaiwardDemo.dll
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\EntityFramework.dll
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\System.Web.Optimization.dll
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.Owin.dll
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Owin.dll
-C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\EntityFramework.dll
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.Owin.Security.dll
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
@@ -30,10 +30,10 @@ C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\System.Web.WebPages.Deplo
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\EntityFramework.xml
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\System.Web.Optimization.xml
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.Owin.xml
-C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\EntityFramework.xml
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.Owin.Security.xml
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 C:\Abhi\csharp\WaiwardDemo\WaiwardDemo.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
